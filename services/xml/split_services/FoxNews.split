@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pxsObject>
+    <appSmsCode></appSmsCode>
+    <plainxmlservice>
+        <authenticationMode>basic</authenticationMode>
+        <cacheduration></cacheduration>
+        <cacheable>false</cacheable>
+        <includecookies></includecookies>
+        <dataprovider></dataprovider>
+        <dcResponse/>
+        <encryptPwd>true</encryptPwd>
+        <escapeXML>false</escapeXML>
+        <group>other</group>
+        <httpmethod>GET</httpmethod>
+        <id>FoxNews</id>
+        <identityProvider></identityProvider>
+        <identityProviderName></identityProviderName>
+        <ignoreProxy>false</ignoreProxy>
+        <intemplate></intemplate>
+        <ntlmDomain></ntlmDomain>
+        <ntlmHost></ntlmHost>
+        <outtemplate>&lt;?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?&gt;&lt;?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?&gt;&lt;rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"&gt;
+   &lt;channel&gt;
+      &lt;title&gt;FOX News&lt;/title&gt;
+      &lt;link&gt;http://www.foxnews.com/&lt;/link&gt;
+      &lt;description&gt;&lt;![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]&gt;&lt;/description&gt;
+      &lt;image&gt;
+         &lt;url&gt;http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png&lt;/url&gt;
+         &lt;title&gt;FOX News&lt;/title&gt;
+         &lt;link&gt;http://www.foxnews.com/&lt;/link&gt;
+      &lt;/image&gt;
+      &lt;atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://feeds.foxnews.com/foxnews/world" rel="self" type="application/rss+xml"/&gt;
+      &lt;feedburner:info uri="foxnews/world"/&gt;
+      &lt;atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/frenchman-who-killed-police-captain-and-companion-allegedly-pledged-allegiance-to-isis.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/E82nlM5arWU/frenchman-who-killed-police-captain-and-companion-allegedly-pledged-allegiance-to-isis.html&lt;/link&gt;
+         &lt;media:group&gt;
+            &lt;media:content isDefault="true" medium="image" url="http://www.foxnews.com/content/dam/fox-news/images/2016/06/15/wse.jpg"/&gt;
+            &lt;media:content height="60" medium="image" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/wse.jpg" width="60"/&gt;
+         &lt;/media:group&gt;
+         &lt;media:thumbnail height="60" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/wse.jpg" width="60"/&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;8e1c4596-d9d7-4608-aafc-b887a874141c&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Frenchman who killed police captain and companion allegedly pledged allegiance to ISIS&lt;/title&gt;
+         &lt;description&gt;A man who pledged allegiance to Islamic State killed a police captain and his companion in a suburb of the French capital, a slaying authorities suspect was sparked by the extremist group’s calls for followers in the West to carry out attacks.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/E82nlM5arWU" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 12:18:00 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;The Wall Street Journal&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/frenchman-who-killed-police-captain-and-companion-allegedly-pledged-allegiance-to-isis.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/uganda-jailed-opposition-leader-says-fears-for-his-life.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/rUy3eDtTIF4/uganda-jailed-opposition-leader-says-fears-for-his-life.html&lt;/link&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;2dcf00a7-8201-43b0-9aeb-29d8116c31b5&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/africa&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Africa&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Uganda: Jailed opposition leader says he fears for his life&lt;/title&gt;
+         &lt;description&gt;Uganda's jailed opposition leader says he fears for his life in a maximum-security prison.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/rUy3eDtTIF4" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 11:58:06 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/uganda-jailed-opposition-leader-says-fears-for-his-life.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/latest-turkey-reports-sharp-drop-in-sea-crossings.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/dEdRS2rE2ZI/latest-turkey-reports-sharp-drop-in-sea-crossings.html&lt;/link&gt;
+         &lt;media:group&gt;
+            &lt;media:content isDefault="true" medium="image" url="http://www.foxnews.com/content/dam/fox-news/images/2016/06/15/81e33223613e4317bf70cde7b7a79d37.jpg"/&gt;
+            &lt;media:content height="60" medium="image" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/81e33223613e4317bf70cde7b7a79d37.jpg" width="60"/&gt;
+         &lt;/media:group&gt;
+         &lt;media:thumbnail height="60" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/81e33223613e4317bf70cde7b7a79d37.jpg" width="60"/&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;7e013cfb-9af7-4e4c-9624-53a035d1143a&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/middle-east&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Middle East&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;The Latest: Turkey reports sharp drop in sea crossings&lt;/title&gt;
+         &lt;description&gt;The Latest on Europe's response to the influx of refugees (all times local): 1:30 p.m.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/dEdRS2rE2ZI" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 11:45:03 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/latest-turkey-reports-sharp-drop-in-sea-crossings.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/iranian-british-woman-faces-alleged-coup-charge-in-iran.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/5v0K_pqwwY4/iranian-british-woman-faces-alleged-coup-charge-in-iran.html&lt;/link&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;110c8707-ee70-4b61-b701-83af6f98796d&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/middle-east&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Middle East&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Iranian-British woman faces alleged coup charge in Iran&lt;/title&gt;
+         &lt;description&gt;Iran's state-run news agency is reporting that an Iranian-British woman held there faces charges accusing her of trying to cause a "soft toppling" of the Islamic Republic's government.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/5v0K_pqwwY4" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 11:39:52 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/iranian-british-woman-faces-alleged-coup-charge-in-iran.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/isis-terrorists-may-be-headed-to-france-belgium-security-official-says.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/X1zZOQn00Aw/isis-terrorists-may-be-headed-to-france-belgium-security-official-says.html&lt;/link&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;934dc414-acf7-452a-a8b0-7949d1deb927&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/terrorism&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/TERRORISM&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;ISIS terrorists may be headed to France, Belgium, security official says&lt;/title&gt;
+         &lt;description&gt;Small groups of extremists may have left Syria for France and Belgium with plans to stage attacks, a French security official said Wednesday.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/X1zZOQn00Aw" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 11:25:00 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/isis-terrorists-may-be-headed-to-france-belgium-security-official-says.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/poland-ignores-eu-deadline-for-replying-to-criticism.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/EDt1ZvHvS5I/poland-ignores-eu-deadline-for-replying-to-criticism.html&lt;/link&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;018aa73d-6fdc-4bdc-ad62-20feb21a70b6&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Poland ignores EU deadline for replying to criticism&lt;/title&gt;
+         &lt;description&gt;A spokesman for Poland's government says it will not meet the European Union's deadline of Wednesday to respond to concerns about the country's political crisis.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/EDt1ZvHvS5I" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 11:20:34 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/poland-ignores-eu-deadline-for-replying-to-criticism.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/french-police-alerted-to-possible-arrival-fighters.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/_hnPhtKus30/french-police-alerted-to-possible-arrival-fighters.html&lt;/link&gt;
+         &lt;media:group&gt;
+            &lt;media:content isDefault="true" medium="image" url="http://www.foxnews.com/content/dam/fox-news/images/2016/06/15/436cbebf3e8dda1e9b0f6a7067003c76.jpg"/&gt;
+            &lt;media:content height="60" medium="image" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/436cbebf3e8dda1e9b0f6a7067003c76.jpg" width="60"/&gt;
+         &lt;/media:group&gt;
+         &lt;media:thumbnail height="60" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/436cbebf3e8dda1e9b0f6a7067003c76.jpg" width="60"/&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;4f09b7ae-5a7f-4691-8f3a-639e50d062b2&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/middle-east&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/global-economy&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/terrorism&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Middle East&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/GLOBAL ECONOMY&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/TERRORISM&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;French police alerted to possible arrival of fighters&lt;/title&gt;
+         &lt;description&gt;A French security official says that police and anti-terrorism investigators have been alerted to the possibility that small groups of extremists have left Syria for France and Belgium with plans to stage attacks.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/_hnPhtKus30" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 11:19:06 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/french-police-alerted-to-possible-arrival-fighters.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/greek-economy-seen-returning-to-growth-next-year.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/Ut-plqhuwzI/greek-economy-seen-returning-to-growth-next-year.html&lt;/link&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;02831a23-88e0-4161-8730-2abe3a693428&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Greek economy seen returning to growth next year&lt;/title&gt;
+         &lt;description&gt;The Bank of Greece has backed international forecasts that Greece's economy will return to growth next year and is urging bailout lenders to act swiftly to ease the country's debt load.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/Ut-plqhuwzI" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 11:18:07 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/greek-economy-seen-returning-to-growth-next-year.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/india-government-approves-new-civil-aviation-policy.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/0LhQ4Wg0GQ8/india-government-approves-new-civil-aviation-policy.html&lt;/link&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;85b05e79-f5e4-4c0b-9d10-dc95305fa9b7&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/asia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Asia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;India's government approves new civil aviation policy&lt;/title&gt;
+         &lt;description&gt;India's government has approved a new civil aviation policy aimed at increasing regional connectivity, boosting cargo operations and making it easier — and possibly cheaper — for passengers to fly.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/0LhQ4Wg0GQ8" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 11:17:08 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/india-government-approves-new-civil-aviation-policy.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/migrant-group-says-3400-dead-or-missing-so-far-this-year.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/7zgF18Q_iBs/migrant-group-says-3400-dead-or-missing-so-far-this-year.html&lt;/link&gt;
+         &lt;media:group&gt;
+            &lt;media:content isDefault="true" medium="image" url="http://www.foxnews.com/content/dam/fox-news/images/2016/06/15/5fab4a358939425b8eaff5980a56b85a.jpg"/&gt;
+            &lt;media:content height="60" medium="image" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/5fab4a358939425b8eaff5980a56b85a.jpg" width="60"/&gt;
+         &lt;/media:group&gt;
+         &lt;media:thumbnail height="60" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/5fab4a358939425b8eaff5980a56b85a.jpg" width="60"/&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;b8c9a6b4-7b8b-45fa-8ca6-355d481474bc&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Migrant group says 3,400 dead or missing so far this year&lt;/title&gt;
+         &lt;description&gt;The International Organization for Migration says more than 3,400 migrants died or were recorded as missing as they tried to cross borders around the globe in this year's first five months — over 80 percent of them trying to reach Europe by sea.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/7zgF18Q_iBs" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 11:16:19 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/migrant-group-says-3400-dead-or-missing-so-far-this-year.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/wife-son-former-senior-chinese-leader-jailed-for-graft.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/_A7sU_I8Xls/wife-son-former-senior-chinese-leader-jailed-for-graft.html&lt;/link&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;f076d2eb-48a0-4450-ba11-812026d0f6ac&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/conflicts&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/asia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/CONFLICTS&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Asia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Wife, son of former senior Chinese leader jailed for graft&lt;/title&gt;
+         &lt;description&gt;A Chinese court has jailed the wife and a son of a former senior politician sentenced to life in prison a year ago for corruption amid an ongoing anti-graft campaign.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/_A7sU_I8Xls" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 11:12:27 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/wife-son-former-senior-chinese-leader-jailed-for-graft.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/after-quiet-night-lille-prepares-fans-clashing-at-euro-2016.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/zq3wT10Z3YM/after-quiet-night-lille-prepares-fans-clashing-at-euro-2016.html&lt;/link&gt;
+         &lt;media:group&gt;
+            &lt;media:content isDefault="true" medium="image" url="http://www.foxnews.com/content/dam/fox-news/images/2016/06/15/d53ad30b3e95db1e9b0f6a706700c7ca.jpg"/&gt;
+            &lt;media:content height="60" medium="image" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/d53ad30b3e95db1e9b0f6a706700c7ca.jpg" width="60"/&gt;
+         &lt;/media:group&gt;
+         &lt;media:thumbnail height="60" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/d53ad30b3e95db1e9b0f6a706700c7ca.jpg" width="60"/&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;b4547525-bc37-41f7-a182-4cfc4368fb95&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;After quiet night, Lille prepares fans clashing at Euro 2016&lt;/title&gt;
+         &lt;description&gt;After an unexpectedly quiet night in Lille, Russian and Slovakian fans are gathering at the Stade Pierre Mauroy for Wednesday afternoon's European Championship match while a legion of English and Welsh supporters are still in town.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/zq3wT10Z3YM" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 11:07:56 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/after-quiet-night-lille-prepares-fans-clashing-at-euro-2016.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/lawyers-question-contention-woman-killed-friend-with-cyanide.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/gkO8uBJ5EW0/lawyers-question-contention-woman-killed-friend-with-cyanide.html&lt;/link&gt;
+         &lt;media:group&gt;
+            &lt;media:content isDefault="true" medium="image" url="http://www.foxnews.com/content/dam/fox-news/images/2016/06/15/3adde786f8174ed7aded46b5a8f3154b.jpg"/&gt;
+            &lt;media:content height="60" medium="image" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/3adde786f8174ed7aded46b5a8f3154b.jpg" width="60"/&gt;
+         &lt;/media:group&gt;
+         &lt;media:thumbnail height="60" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/3adde786f8174ed7aded46b5a8f3154b.jpg" width="60"/&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;9cc16926-3bf7-4a8d-936d-824db3ae27b2&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/australia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/asia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/pacific&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Australia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Asia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Pacific&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Lawyers question contention woman killed friend with cyanide&lt;/title&gt;
+         &lt;description&gt;Lawyers for an Indonesian woman accused of murder told an overflowing courtroom that the evidence she poisoned her friend with cyanide was vague and illogical.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/gkO8uBJ5EW0" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 10:36:42 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/lawyers-question-contention-woman-killed-friend-with-cyanide.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/cyprus-top-diplomat-gas-finds-could-partly-fund-peace-deal.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/xTy2y1iQWrQ/cyprus-top-diplomat-gas-finds-could-partly-fund-peace-deal.html&lt;/link&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;f4e2b2bb-c06f-4764-aff6-4f59284db971&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/middle-east&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Middle East&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Cyprus' top diplomat: gas finds could partly fund peace deal&lt;/title&gt;
+         &lt;description&gt;Cyprus' foreign minister says potential offshore gas discoveries could partly fund the cost of reunifying the ethnically divided island as a federation.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/xTy2y1iQWrQ" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 10:26:43 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/cyprus-top-diplomat-gas-finds-could-partly-fund-peace-deal.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/prince-william-appears-on-cover-uk-gay-magazine.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/6x8gGAeC-Z4/prince-william-appears-on-cover-uk-gay-magazine.html&lt;/link&gt;
+         &lt;media:group&gt;
+            &lt;media:content isDefault="true" medium="image" url="http://www.foxnews.com/content/dam/fox-news/images/2016/06/15/44c3ea771187c91e9b0f6a706700388a.jpg"/&gt;
+            &lt;media:content height="60" medium="image" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/44c3ea771187c91e9b0f6a706700388a.jpg" width="60"/&gt;
+         &lt;/media:group&gt;
+         &lt;media:thumbnail height="60" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/44c3ea771187c91e9b0f6a706700388a.jpg" width="60"/&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;55635dd5-2cf4-41f8-bda2-dd14e9457226&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Prince William appears on the cover of UK gay magazine&lt;/title&gt;
+         &lt;description&gt;Prince William has appeared on the cover of the U.K. gay magazine, "Attitude" to speak out against bullying people because of their sexuality.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/6x8gGAeC-Z4" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 10:26:33 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/prince-william-appears-on-cover-uk-gay-magazine.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/egypt-fm-parliament-can-annul-president-deal-on-islands.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/tLMh7K6P4Cg/egypt-fm-parliament-can-annul-president-deal-on-islands.html&lt;/link&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;4293765e-ca16-4c3b-8a8b-75b603e43ebc&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/middle-east&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/africa&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Middle East&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Africa&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Egypt FM: Parliament can annul president's deal on islands&lt;/title&gt;
+         &lt;description&gt;Egypt's foreign minister says the country's parliament has the power to annul a decision by the president to hand over two strategic Red Sea islands to Saudi Arabia.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/tLMh7K6P4Cg" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 10:24:35 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/egypt-fm-parliament-can-annul-president-deal-on-islands.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/latest-german-official-says-eu-needs-uk-pragmatism.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/Sf_6iaDew8M/latest-german-official-says-eu-needs-uk-pragmatism.html&lt;/link&gt;
+         &lt;media:group&gt;
+            &lt;media:content isDefault="true" medium="image" url="http://www.foxnews.com/content/dam/fox-news/images/2016/06/15/b1afa93a3e94db1e9b0f6a7067005918.jpg"/&gt;
+            &lt;media:content height="60" medium="image" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/b1afa93a3e94db1e9b0f6a7067005918.jpg" width="60"/&gt;
+         &lt;/media:group&gt;
+         &lt;media:thumbnail height="60" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/b1afa93a3e94db1e9b0f6a7067005918.jpg" width="60"/&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;67871b4d-98ed-4f93-8282-cd02305e8b49&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;The Latest: German official says EU needs UK's 'pragmatism'&lt;/title&gt;
+         &lt;description&gt;The Latest on Britain's popular vote on whether to remain in the European Union (all times local): 11:20 a.m.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/Sf_6iaDew8M" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 10:21:24 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/latest-german-official-says-eu-needs-uk-pragmatism.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/police-identify-body-found-off-sydney-beach-as-us-student.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/FrWR6qQTF_o/police-identify-body-found-off-sydney-beach-as-us-student.html&lt;/link&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;2b63ca5c-9e1b-40dd-a4f9-7a7de22f9b69&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/australia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/pacific&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Australia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Pacific&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Police identify body found off Sydney beach as US student&lt;/title&gt;
+         &lt;description&gt;Police have identified a body found of Sydney's Bondi Beach as American student Endicott Ackerman, who became the fourth person killed in recent storms on the Australian east coast.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/FrWR6qQTF_o" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 10:20:42 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/police-identify-body-found-off-sydney-beach-as-us-student.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/diplomat-nato-poised-to-extend-afghanistan-mission.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/L-zWM8Fd70k/diplomat-nato-poised-to-extend-afghanistan-mission.html&lt;/link&gt;
+         &lt;media:group&gt;
+            &lt;media:content isDefault="true" medium="image" url="http://www.foxnews.com/content/dam/fox-news/images/2016/06/15/825ce4233ea3db1e9b0f6a706700e3c9.jpg"/&gt;
+            &lt;media:content height="60" medium="image" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/825ce4233ea3db1e9b0f6a706700e3c9.jpg" width="60"/&gt;
+         &lt;/media:group&gt;
+         &lt;media:thumbnail height="60" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/825ce4233ea3db1e9b0f6a706700e3c9.jpg" width="60"/&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;a8b42516-1cfd-44de-bc85-6b291ef3ff34&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/americas&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/us&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/asia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Americas&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/US&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Asia&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;Diplomat: NATO poised to extend Afghanistan mission&lt;/title&gt;
+         &lt;description&gt;A senior NATO diplomat says the alliance will likely agree next month to extend the Afghanistan training mission and keep troops in all four sections of the country next year.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/L-zWM8Fd70k" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 10:15:03 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/diplomat-nato-poised-to-extend-afghanistan-mission.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+      &lt;item&gt;
+         &lt;guid isPermaLink="false"&gt;http://www.foxnews.com/world/2016/06/15/latest-roof-at-stade-pierre-mauroy-will-be-closed.html&lt;/guid&gt;
+         &lt;link&gt;http://feeds.foxnews.com/~r/foxnews/world/~3/yghg-PDVtaY/latest-roof-at-stade-pierre-mauroy-will-be-closed.html&lt;/link&gt;
+         &lt;media:group&gt;
+            &lt;media:content isDefault="true" medium="image" url="http://www.foxnews.com/content/dam/fox-news/images/2016/06/15/77fadb031127c71e9b0f6a7067007b12.jpg"/&gt;
+            &lt;media:content height="60" medium="image" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/77fadb031127c71e9b0f6a7067007b12.jpg" width="60"/&gt;
+         &lt;/media:group&gt;
+         &lt;media:thumbnail height="60" url="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2016/06/15/60/60/77fadb031127c71e9b0f6a7067007b12.jpg" width="60"/&gt;
+         &lt;category domain="foxnews.com/metadata/dc.identifier"&gt;c7e9262e-25d0-4d58-9dc6-62aa88010e51&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;fox-news/world/world-regions/europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD&lt;/category&gt;
+         &lt;category domain="foxnews.com/taxonomy"&gt;/FOX NEWS/WORLD/WORLD REGIONS/Europe&lt;/category&gt;
+         &lt;category domain="foxnews.com/metadata/prism.channel"&gt;fnc&lt;/category&gt;
+         &lt;category domain="foxnews.com/section-path"&gt;fnc/world&lt;/category&gt;
+         &lt;category domain="foxnews.com/content-type"&gt;article&lt;/category&gt;
+         &lt;title&gt;The Latest: Roof at Stade Pierre Mauroy will be closed&lt;/title&gt;
+         &lt;description&gt;The Latest on from soccer's European Championship (all times local): ___ 11:45 a.m.&amp;lt;img src="http://feeds.feedburner.com/~r/foxnews/world/~4/yghg-PDVtaY" height="1" width="1" alt=""/&amp;gt;&lt;/description&gt;
+         &lt;pubDate&gt;Wed, 15 Jun 2016 09:46:08 GMT&lt;/pubDate&gt;
+         &lt;category domain="foxnews.com/metadata/dc.source"&gt;Associated Press&lt;/category&gt;
+         &lt;feedburner:origLink&gt;http://www.foxnews.com/world/2016/06/15/latest-roof-at-stade-pierre-mauroy-will-be-closed.html&lt;/feedburner:origLink&gt;
+      &lt;/item&gt;
+   &lt;/channel&gt;
+&lt;/rss&gt;
+</outtemplate>
+        <outTemplateHeader>Accept-Ranges: none
+Transfer-Encoding: chunked
+Cache-Control: private, max-age=0
+Server: GSE
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+Last-Modified: Wed, 15 Jun 2016 12:43:29 GMT
+Expires: Wed, 15 Jun 2016 12:47:02 GMT
+X-XSS-Protection: 1; mode=block
+Date: Wed, 15 Jun 2016 12:47:02 GMT
+Content-Type: text/xml; charset=UTF-8
+</outTemplateHeader>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>articles</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>//channel</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value></value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>title</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>item/title</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>articles</value>
+        </outparam>
+        <outparam>
+            <category></category>
+            <datatype>string</datatype>
+            <defaultvalue></defaultvalue>
+            <description></description>
+            <encode>true</encode>
+            <format>None</format>
+            <formatvalue></formatvalue>
+            <id>desc</id>
+            <invalue></invalue>
+            <name></name>
+            <order></order>
+            <passNull>false</passNull>
+            <recordid></recordid>
+            <smsname></smsname>
+            <source>item/description</source>
+            <srcformatvalue></srcformatvalue>
+            <target>response</target>
+            <targetdatatype></targetdatatype>
+            <testvalue></testvalue>
+            <value>articles</value>
+        </outparam>
+        <password></password>
+        <postclassname></postclassname>
+        <preclassname></preclassname>
+        <proxyname></proxyname>
+        <proxyport></proxyport>
+        <proxypwd></proxypwd>
+        <proxyuserid></proxyuserid>
+        <responseencoding>UTF-8</responseencoding>
+        <smscode></smscode>
+        <smsenabled>false</smsenabled>
+        <timeout></timeout>
+        <url>http://feeds.foxnews.com/foxnews/world</url>
+        <urlprovider></urlprovider>
+        <userid></userid>
+    </plainxmlservice>
+</pxsObject>
